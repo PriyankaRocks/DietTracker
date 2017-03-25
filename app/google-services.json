@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86642327962",
+    "project_id": "firebase-diet-tracker"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86642327962:android:5037ef57ffa45ba2",
+        "android_client_info": {
+          "package_name": "com.priyanka.diettracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86642327962-t788d1o2onui564k091oqbulrop5593i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyanka.diettracker",
+            "certificate_hash": "1a55fe228c895fedc038350dabf79f4c73ab7204"
+          }
+        },
+        {
+          "client_id": "86642327962-v87a41rs9kj1n6ntjo36bgr494v2uch6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTq2V50luWkpY3qfU_iDBl2pxubW_if0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
